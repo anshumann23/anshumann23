@@ -25,20 +25,45 @@
 ---
 
 
+
 ## 🚀 Tech Stack
 
 <div align="center">
 
+<!-- Java -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="Java" />
+<br>Java<br><br>
+
+<!-- Python -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python" />
+<br>Python<br><br>
+
+<!-- JavaScript -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript" />
+<br>JavaScript<br><br>
+
+<!-- React -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" alt="React" />
+<br>React<br><br>
+
+<!-- Node.js -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="Node.js" />
+<br>Node.js<br><br>
+
+<!-- MySQL -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="MySQL" />
+<br>MySQL<br><br>
+
+<!-- Git -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="Git" />
+<br>Git<br><br>
+
+<!-- Docker -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="Docker" />
+<br>Docker<br>
 
 </div>
+
 
 ---
 
